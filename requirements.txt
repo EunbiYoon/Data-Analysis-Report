@@ -1,0 +1,13 @@
+flask
+python-dotenv
+flask_migrate
+flask_sqlalchemy
+psycopg2
+flask_login
+requests
+pandas
+numpy
+datetime
+random2
+openpyxl
+uwsgi
