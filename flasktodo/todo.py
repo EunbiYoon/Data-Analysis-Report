@@ -301,10 +301,6 @@ def email():
 def logic():
     return render_template('card/dataframe.html')
 
-@bp.route("/deploy")
-@login_required
-def deploy():
-    return render_template('card/flow.html')
 
 #layout
 @bp.route("/layout_static")
